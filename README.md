@@ -1,1 +1,1 @@
-# reForge_setting_for_paperspace
+# reForge_setting_ipynb_for_paperspace
