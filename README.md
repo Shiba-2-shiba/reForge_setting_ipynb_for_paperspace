@@ -7,7 +7,7 @@
 以下の Docker イメージをPaperspaceのコンテナの部分に入力して使用してください：
 
 ```bash
-shibashiba2/paperspace-gradient-base-pytorch241:v7
+shibashiba2/paperspace-gradient-base-pytorch241:v8
 ```
 
 Dockerイメージを使用する方法については、以下のURLを参考にしてください。
